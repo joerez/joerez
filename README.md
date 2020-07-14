@@ -1,10 +1,9 @@
-### Hi there 👋
+### Greetings fellow mortals 👋
 
-🔭  I’m currently working on:
-Epic frontend dashboards.
+I am a Fullstack Web Developer based in San Francisco. Creating beautiful software is my way of creating a better world.
+![strange](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8a9a8024-69f8-4728-b058-860432cf77bd/dd47bp3-77f70372-8c7b-4b4d-9264-e18abfc11c16.png/v1/fill/w_1280,h_925,q_80,strp/strange_background__challenge__by_roci74_dd47bp3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD05MjUiLCJwYXRoIjoiXC9mXC84YTlhODAyNC02OWY4LTQ3MjgtYjA1OC04NjA0MzJjZjc3YmRcL2RkNDdicDMtNzdmNzAzNzItOGM3Yi00YjRkLTkyNjQtZTE4YWJmYzExYzE2LnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.DpvuhzmYV6HMh4IYeKLOx03tVkbmOggTmnd4LmrmwFU
+)
 
-📫  How to reach me:
-odd@hey.com
 
 <!--
 **joerez/joerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
