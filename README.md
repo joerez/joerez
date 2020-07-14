@@ -1,8 +1,8 @@
 ### Greetings fellow mortals 👋
 
-I am a Fullstack Web Developer based in San Francisco. Creating beautiful software is my way of creating a better world.
+I am an eccentric Fullstack Web Developer with an emphasis on frontend technologies based in San Francisco. Creating beautiful software is my way of creating a better world.
 
-![fall](https://i.imgur.com/4ltGBj2.gif)
+I live for a tasteful splash of color.
 
 ![strange](https://thumbs.gfycat.com/ImpishUnequaledIchneumonfly-size_restricted.gif)
 
