@@ -1,15 +1,13 @@
-### Greetings fellow mortals 👋
-
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">A passionate frontend developer from San Francisco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joerez" alt="joerez" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.joerezendes.com](www.joerezendes.com)
+- 👨‍💻 All of my projects are available at: [www.joerezendes.com](www.joerezendes.com)
 
-- 📝 I regulary write articles on [blog.joerezendes.com](blog.joerezendes.com)
+- 📝 I regulary write articles on: [blog.joerezendes.com](blog.joerezendes.com)
 
-- 📫 How to reach me **odd@hey.com**
+- 📫 How to reach me: **odd@hey.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
