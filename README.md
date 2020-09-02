@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Joe 👋</h1>
-<h3 align="center">A passionate frontend developer from San Francisco</h3>
+<h3 align="center">A passionate fullstack engineer from San Francisco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joerez" alt="joerez" /> </p>
 
