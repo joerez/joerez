@@ -9,7 +9,7 @@
 
 - 📫  How to reach me: **odd@hey.com**
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joerez&layout=compact&hide=html" alt="joerez" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joerez&layout=compact&hide=html" alt="joerez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joerez&show_icons=true" alt="joerez" /></p>
 
