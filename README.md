@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joerez" alt="joerez" /> </p>
 
-- 👨‍💻  All of my projects are available at: [www.joerezendes.com](https://www.joerezendes.com)
+- 👨‍💻  Selected projects available at: [www.joerezendes.com](https://www.joerezendes.com)
 
 - 📝  I regulary write articles on: [blog.joerezendes.com](https://blog.joerezendes.com)
 
